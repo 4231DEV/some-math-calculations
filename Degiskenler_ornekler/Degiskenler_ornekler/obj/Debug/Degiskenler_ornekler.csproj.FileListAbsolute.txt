@@ -1,0 +1,10 @@
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\bin\Debug\Degiskenler_ornekler.exe.config
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\bin\Debug\Degiskenler_ornekler.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\bin\Debug\Degiskenler_ornekler.pdb
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\obj\Debug\Degiskenler_ornekler.Form1.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\obj\Debug\Degiskenler_ornekler.Properties.Resources.resources
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\obj\Debug\Degiskenler_ornekler.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\obj\Debug\Degiskenler_ornekler.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\obj\Debug\Degiskenler_ornekler.exe
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\obj\Debug\Degiskenler_ornekler.pdb
+C:\Users\semih\Desktop\Dersler\C# dersleri\Degiskenler_ornekler\Degiskenler_ornekler\obj\Debug\Degiskenler_ornekler.csproj.AssemblyReference.cache
